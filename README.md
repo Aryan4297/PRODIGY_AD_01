@@ -11,7 +11,7 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - User-friendly interface using modern UI components
 
 ## 📱 Screenshots
-![Screenshot UI](screenshots%2FScreenshot_20250704_122639.png)
+<img src="screenshots/Screenshot_20250704_122639.png" alt="Light Theme" width="300"/>
  
 
 ## 🛠️ Tech Stack
