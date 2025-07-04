@@ -22,26 +22,6 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - **Min SDK:** 21
 - **Target SDK:** 34
 
-## 📁 Project Directory Structure - PRODIGY_AD_01
-PRODIGY_AD_01/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/
-│ │ │ │ └── com/
-│ │ │ │ └── example/
-│ │ │ │ └── prodigy_ad_01/
-│ │ │ │ └── MainActivity.java
-│ │ │ ├── res/
-│ │ │ │ ├── layout/
-│ │ │ │ │ └── activity_main.xml
-│ │ │ │ ├── values/
-│ │ │ │ │ ├── themes.xml
-│ │ │ │ │ └── strings.xml
-│ │ │ │ │ └── colors.xml
-│ └── AndroidManifest.xml
-└── build.gradle
-
 ## 🧠 Negative Number Support
 
 The app handles negative numbers by:
