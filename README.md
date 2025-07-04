@@ -66,5 +66,5 @@ Contributions are welcome! Feel free to open issues or pull requests.
 ## 👤 Author
 - Aryan Jadhav
 - 📧 aryanjadhav4297@gmail.com
-- 🔗LinkedIn Post - https://www.linkedin.com/posts/aryan-jadhav-6b4891274_learningbybuilding-androiddev-studentproject-activity-7346818400410603520-WpwJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMMw6gBRs0KBy3dgxSLHPz1aiBjg1MiwcM
+- 🔗LinkedIn Post -https://www.linkedin.com/posts/aryan-jadhav-6b4891274_prodigyinfotech-internship-androiddevelopment-activity-7346822241738792960-nhWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMMw6gBRs0KBy3dgxSLHPz1aiBjg1MiwcM
 - 🔗LinkedIn Account- https://www.linkedin.com/in/aryan-jadhav-6b4891274
