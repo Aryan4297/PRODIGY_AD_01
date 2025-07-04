@@ -7,6 +7,7 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - Addition, Subtraction, Multiplication, and Division
 - Support for negative number inputs and results
 - Clear (`C`) and backspace functionality
+- Clear screen functionality (`AC`)
 - Real-time result calculation
 - User-friendly interface using modern UI components
 
