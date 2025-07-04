@@ -11,7 +11,8 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - User-friendly interface using modern UI components
 
 ## 📱 Screenshots
--![Screenshot_20250704_122639.png](screenshots%2FScreenshot_20250704_122639.png)
+
+ 
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +22,23 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - **Min SDK:** 21
 - **Target SDK:** 34
 
+## 📂 Project Structure
+PRODIGY_AD_01/
+├── app/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/
+│ │ │ │ └── com/example/prodigy_ad_01/
+│ │ │ │ └── MainActivity.java
+│ │ │ ├── res/
+│ │ │ │ ├── layout/
+│ │ │ │ │ └── activity_main.xml
+│ │ │ │ ├── values/
+│ │ │ │ │ ├── themes.xml
+│ │ │ │ │ ├── colors.xml
+│ │ │ │ │ └── strings.xml
+│ └── AndroidManifest.xml
+└── build.gradle
 
 ## 🧠 Negative Number Support
 
