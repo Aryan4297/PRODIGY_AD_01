@@ -59,13 +59,12 @@ The app handles negative numbers by:
 4. -10 - -20 = -30
 
 ---
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or pull requests.
-
----
 ## 👤 Author
 - Aryan Jadhav
 - 📧 Mail -  aryanjadhav4297@gmail.com
 - 🔗LinkedIn Account- https://www.linkedin.com/in/aryan-jadhav-6b4891274
 - 🔗LinkedIn Post -https://www.linkedin.com/posts/aryan-jadhav-6b4891274_prodigyinfotech-internship-androiddevelopment-activity-7346822241738792960-nhWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMMw6gBRs0KBy3dgxSLHPz1aiBjg1MiwcM
+
+---
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or pull requests.
