@@ -2,17 +2,22 @@
 
 A simple yet functional calculator app built using **Java** and **XML** in **Android Studio**. This app performs basic arithmetic operations and supports negative numbers for both input and result.
 
+---
+
 ## 🚀 Features
 
 - Addition, Subtraction, Multiplication, and Division
 - Support for negative number inputs and results
 - Clear (`C`) and backspace functionality
 - Real-time result calculation
-- User-friendly interface using modern UI components
+- User-friendly interface using modern UI component
+
+---
 
 ## 📱 Screenshots
 <img src="screenshots/Screenshot_20250704_122639.png" alt="Light Theme" width="300"/>
  
+---
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +27,7 @@ A simple yet functional calculator app built using **Java** and **XML** in **And
 - **Min SDK:** 21
 - **Target SDK:** 34
 
+---
 
 ## 🧠 Negative Number Support
 
@@ -31,6 +37,7 @@ The app handles negative numbers by:
 - Using a **real math expression parser** (not JavaScript engine)
 - Handling edge cases like `-5 + -3` or `--4`
 
+---
 
 ## 📥 How to Use
 
@@ -42,12 +49,22 @@ The app handles negative numbers by:
 
 3. Build and run the app on an emulator or physical device.
 
+---
+
 ## 🧪 sample Expressions
 1. -5 + 4= -1
 2. (-3) + 4 = 6
 3. 5 / -1 = -5
-4. -10 = -20 = -30 
+4. -10 = -20 = -30
 
-## 📄 License
-This project is licensed under the MIT License.
+---
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or pull requests.
+
+---
+## 👤 Author
+- Aryan Jadhav
+- 📧 aryanjadhav4297@gmail.com
+- 🔗LinkedIn Post - https://www.linkedin.com/posts/aryan-jadhav-6b4891274_learningbybuilding-androiddev-studentproject-activity-7346818400410603520-WpwJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMMw6gBRs0KBy3dgxSLHPz1aiBjg1MiwcM
+- 🔗LinkedIn Account- https://www.linkedin.com/in/aryan-jadhav-6b4891274
